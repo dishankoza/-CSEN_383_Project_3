@@ -12,3 +12,5 @@ Execute:
 Example:
 	To simulate ticket sell with 10 customers arriving at random time for every seller queue
 	$ ./project_3 10 
+
+All the output is collected in the [output.txt](output.txt)
